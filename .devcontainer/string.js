@@ -25,4 +25,3 @@ console.log(url.replace('%256', '03'));
 console.log(url.includes('03')) // you can ask question using this string
 console.log(url.includes('tech'));
 
-console.log
