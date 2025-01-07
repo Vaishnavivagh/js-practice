@@ -18,7 +18,7 @@ console.table([accountId, accountEmail,accountPassword, accountCity]);*/
 
 
 
-let someNumber = 33
+/*let someNumber = 33
 let stringNumber = String(someNumber)
 
 console.log(stringNumber);
@@ -34,4 +34,17 @@ let a = 3;
 const b = ++a;
 
 console.log(`a:${a}, b:${b}`);
-// Expected output: "a:4, b:4"
+// Expected output: "a:4, b:4"*/
+
+
+// comparison of data types
+console.log(null > 0);
+console.log(null == 0);
+console.log(null >= 0);
+
+console.log (undefined == 0);
+
+
+// === (*strictly check)
+
+console.log('2' === 2);
