@@ -1,7 +1,7 @@
 //singleton
 //object.create
  //const tinderUser = new Object()
- const tinderUser = {}
+/*onst tinderUser = {}
 
  tinderUser.id = "123zxc"
  tinderUser.name = "Vijash"  //the value be keys and second valuse be values
@@ -53,16 +53,6 @@ console.log(tinderUser.hasOwnProperty('isLogged'));  // when you don't have prop
 
 
 
- 
-
-
-
-
-
-
-
-
-
 //object literals*const mySym = Symbol("Key1")
 
 const User = {
@@ -92,3 +82,4 @@ User.greetingTwo = function() {
 console.log(User.greeting()); //when you run this will be error first we have desfinrf this as function so remove objects from freez
 console.log(User.greetingTwo());
 
+*/
