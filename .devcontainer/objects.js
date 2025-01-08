@@ -83,3 +83,23 @@ console.log(User.greeting()); //when you run this will be error first we have de
 console.log(User.greetingTwo());
 
 */
+
+
+
+
+// objects destructuring 
+
+const agency = {
+    agencyname: "Vijash",
+    agencyOwner: "Vijay Asha"
+}
+
+const {agencyOwner: Owner} = agency 
+console.log(Owner);
+
+ 
+//JSON/
+
+
+//sometime thershould be api in array format also not always in object forment
+
