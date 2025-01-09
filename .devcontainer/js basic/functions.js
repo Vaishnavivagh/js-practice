@@ -17,9 +17,7 @@ function loginUserMassage(username) {
     return ` ${username} just logged in`
 }
 console.log(loginUserMassage());
-
-
-//shopping cart parameters
+ //shopping cart parameters
 
 function calculateCartPrice(...num1) {   //... is called rest oprator or speread oprator
     return num1
