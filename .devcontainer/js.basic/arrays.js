@@ -8,7 +8,7 @@ console.log(typeof newArr);
 
 
 
-// slice spilice methond in arry
+// slice spilice methond in arrys
 
 console.log("A", myArr);
 
